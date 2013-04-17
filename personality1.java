@@ -1,5 +1,6 @@
 import java.util.*;
 import java.io.*;
+// Procedural decompisition only 
 
 public class personality {
 	public static void main (String[]args)
